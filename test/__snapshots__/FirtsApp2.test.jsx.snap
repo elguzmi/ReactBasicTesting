@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Purebas en <FirtsApp> debe de hacer math con el snaptshot  1`] = `
+<div>
+  <h1
+    data-testid="test-title"
+  >
+     
+    Hola, Soy Goku
+      
+  </h1>
+  <h3>
+    2
+  </h3>
+  <p>
+    {"message":"Hola Mundo","title":"Fernando"}
+  </p>
+  <p>
+    5
+  </p>
+  <p>
+    6
+  </p>
+  <p>
+    tu nombre es 
+    Fernando Herrera
+  </p>
+</div>
+`;
